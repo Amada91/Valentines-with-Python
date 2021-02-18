@@ -2,7 +2,7 @@
 
 `Valentines with Python` is a mini fun project I have coded. If you’re a programmer, you can surprise your valentine with this awesome and fun project. This program generates an animation of a heart with cool texts of your loved one. It also generates the `.png` and `.gif` files of the animation. The piece is coded in python and uses some of the important python libraries. The following libraries are required to be installed to run this project. 
 
-![github](https://media.giphy.com/media/lNjhdOH4gwVGlDwH8Y/giphy.gif)
+![alt text](https://media.giphy.com/media/lNjhdOH4gwVGlDwH8Y/giphy.gif)
 
 ## REQUIREMENTS:
 
@@ -69,5 +69,5 @@ pip install pillow
 ## NOTE
 Running the program will save you a png and a gif file of the generated image which you can send it to your loved one or share it on social media. 
 
-
-
+### Generated Image:
+![alt text](https://i.imgur.com/Zb56gnv.png)
