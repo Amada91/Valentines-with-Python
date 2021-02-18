@@ -2,7 +2,7 @@
 
 `Valentines with Python` is a mini fun project I have coded. If you’re a programmer, you can surprise your valentine with this awesome and fun project. This program generates an animation of a heart with cool texts of your loved one. It also generates the `.png` and `.gif` files of the animation. The piece is coded in python and uses some of the important python libraries. The following libraries are required to be installed to run this project. 
 
-##REQUIREMENTS:
+## REQUIREMENTS:
 
 * Python 3.7 or later
 * Numpy
