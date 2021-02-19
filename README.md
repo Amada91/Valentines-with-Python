@@ -63,7 +63,7 @@ pip install pillow
 ## How to Run
 
 * Run valentine.py with any of your favourite IDEs
-* Enter your Valentine’s name when it asks to enter. ( You can enter multiple names using space)
+* Enter your Valentine’s name when it asks to enter. ( You can enter multiple names using comma)
 
 
 ## NOTE
